@@ -50,7 +50,7 @@
             "shortName": "SCPD",
             "modulation": "qpsk",
             "callLog": true,
-            "apiKey": "6cb3fdf7564c47dc1fc8d19525d3c28b"
+            "apiKey": "xc"
         },
         {
             "control_channels": [
@@ -62,7 +62,7 @@
             "shortName": "SCFD",
             "modulation": "qpsk",
             "callLog": true,
-            "apiKey": "b8cb3759ba6dcb08461b680491a98694"
+            "apiKey": "zx"
         }
     ],
     "uploadServer": "https://api.openmhz.com",
@@ -75,12 +75,12 @@
             "systems": [
                 {
                     "shortName": "SCPD",
-                    "apiKey": "8ecd5487-85ee-4b56-b22b-277ea2796ade",
+                    "apiKey": "zx",
                     "systemId": 101
                 },
                 {
                     "shortName": "SCFD",
-                    "apiKey": "8ecd5487-85ee-4b56-b22b-277ea2796ade",
+                    "apiKey": "zx",
                     "systemId": 102
                 }
             ]
